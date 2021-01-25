@@ -1,0 +1,12 @@
+C:/Users/hans/surfdrive/Werk/MSO/SOM2019/labs/lab03/lab3code/mso-lab3-master/bin/Debug/Lab3.exe
+C:/Users/hans/surfdrive/Werk/MSO/SOM2019/labs/lab03/lab3code/mso-lab3-master/bin/Debug/Lab3.pdb
+C:/Users/hans/surfdrive/Werk/MSO/SOM2019/labs/lab03/lab3code/mso-lab3-master/obj/x86/Debug/Lab3.csprojAssemblyReference.cache
+C:/Users/hans/surfdrive/Werk/MSO/SOM2019/labs/lab03/lab3code/mso-lab3-master/obj/x86/Debug/Lab3.csproj.CoreCompileInputs.cache
+C:/Users/hans/surfdrive/Werk/MSO/SOM2019/labs/lab03/lab3code/mso-lab3-master/obj/x86/Debug/Lab3.exe
+C:/Users/hans/surfdrive/Werk/MSO/SOM2019/labs/lab03/lab3code/mso-lab3-master/obj/x86/Debug/Lab3.pdb
+/Users/anton/Documents/SOM/lab3-code/bin/Debug/Lab3.exe
+/Users/anton/Documents/SOM/lab3-code/bin/Debug/Lab3.pdb
+/Users/anton/Documents/SOM/lab3-code/obj/x86/Debug/Lab3.csprojAssemblyReference.cache
+/Users/anton/Documents/SOM/lab3-code/obj/x86/Debug/Lab3.csproj.CoreCompileInputs.cache
+/Users/anton/Documents/SOM/lab3-code/obj/x86/Debug/Lab3.exe
+/Users/anton/Documents/SOM/lab3-code/obj/x86/Debug/Lab3.pdb
